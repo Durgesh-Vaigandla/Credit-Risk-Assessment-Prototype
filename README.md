@@ -79,9 +79,6 @@ print(response.json())
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Authors
-- Your Name (@yourusername)
-
 ## Acknowledgments
 - XGBoost team for the gradient boosting framework
 - Scikit-learn team for the preprocessing tools
